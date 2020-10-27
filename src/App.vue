@@ -62,16 +62,16 @@ body {
   transition: 4s fade;
 }
 .clear {
-  background-image: url("./assets/clear.jpg");
+  background-image: url("https://jooinn.com/images/calm-sky-7.jpg");
 }
 .cold {
-  background-image: url("./assets/cold.jpg");
+  background-image: url("https://img5.goodfon.com/wallpaper/nbig/7/fb/andrey-syailev-by-andrey-syailev-cartoon-trees-environment-1.jpg");
 }
 .rain {
-  background-image: url("./assets/rain.jpg");
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.skymetweather.com%2Fcontent%2Fwp-content%2Fuploads%2F2019%2F08%2FRain-in-Punjab-website-1.jpg&f=1&nofb=1");
 }
 .clouds {
-  background-image: url("./assets/clouds.jpg");
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdigileaders.com%2Fwp-content%2Fuploads%2F2018%2F11%2Fbright-cloud-clouds-187364-e1543591694699.jpg&f=1&nofb=1");
 }
 .searchinput {
   margin-top: 0.5rem;
